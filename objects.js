@@ -8,4 +8,4 @@ o.isTeaching = true
 
 const o2 = {}
 o.firstName = 'Jordan'
-o['lastName'] = 'Hayashi '
+o['lastName'] = 'Hayashi ' 
